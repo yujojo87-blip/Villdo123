@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Villdo - AI Voice Agent",
+  "description": "Villdo (Voice Will Do) - The ultimate voice-to-text agent for PC. Press FN to dictate, edit, and format text instantly across any application.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
